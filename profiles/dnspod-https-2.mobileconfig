@@ -17,11 +17,11 @@
 			<key>PayloadDisplayName</key>
 			<string>DNSPod over HTTPS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.3eaa5bb5-7033-4a3a-b687-aa5510645a34</string>
+			<string>com.apple.dnsSettings.managed.2273775D-994D-0B78-14E0-B84B38CA1FA3</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>ae0c18f3-c570-45ef-ac81-16d2ae9aa6ea</string>
+			<string>F02BA0A5-B0C5-BB8F-D678-31A8C1A957AF</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
