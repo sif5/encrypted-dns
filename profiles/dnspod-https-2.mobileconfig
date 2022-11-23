@@ -9,13 +9,8 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<array>
-					<string>1.12.12.12</string>
-					<string>120.53.53.53</string>
-				</array>
 				<key>ServerURL</key>
-				<string>https://doh.pub/dns-query</string>
+				<string>https://sm2.doh.pub/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use DNSPod Encrypted DNS over HTTPS</string>
@@ -44,7 +39,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>01a3c59c-1d5b-4094-a56c-84e3013ffdb2</string>
+	<string>411EEC7D-0F5A-1D10-1458-BDC5AD1A033A</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
